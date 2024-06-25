@@ -29,3 +29,4 @@ RewriteRule ^(.*) index.php [QSA,L]
 # rewrite @try_files {http.matchers.file.relative}
 #
 ###-----------------------------------
+on
